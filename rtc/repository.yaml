@@ -1,0 +1,10 @@
+ConsoleIN:
+  description : 'RTC for typing into console and send data'
+  git : https://github.com/KatoMisa/ConsoleIN.git
+  hash : 482f6a8b0521a111c4b81192aeff1a92615f4d9e
+  repo_name : ConsoleIN
+ConsoleOUT:
+  description : RTC for receiving and displaying data
+  git : https://github.com/KatoMisa/ConsoleOUT.git
+  hash : b60dbe7f63d8527fa918730d1d8628e427cbabc7
+  repo_name : ConsoleOUT
